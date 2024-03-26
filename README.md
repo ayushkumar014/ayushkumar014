@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Nodejs**
 
-- 💬 Ask me about **Ask me about JavaScript,React,Nodejs,Express**
+- 💬 Ask me about **Ask me about JavaScript,React**
 
 - 📫 How to reach me **ayushkumar142002@gmail.com**
 
