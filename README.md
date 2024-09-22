@@ -3,16 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushkumar014&label=Profile%20views&color=0e75b6&style=flat" alt="ayushkumar014" /> </p>
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I Have Completed MERN Stack
 
-- 💬 Ask me about **Ask me about JavaScript,React**
+- 💬 Ask me about **Ask me about MERN Stack**
 
 - 📫 How to reach me **ayushkumar142002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ayush-kumar-b023b922b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-kumar-b023b922b" height="30" width="40" /></a>
-<a href="https://leetcode.com/ayushkumar14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayushkumar14" height="30" width="40" /></a>
+<a href="https://leetcode.com/ayush_kumar_14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayushkumar14" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/05ayush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="05ayush" height="30" width="40" /></a>
 </p>
 
